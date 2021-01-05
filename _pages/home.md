@@ -31,7 +31,7 @@ permalink: /
     <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/dsse-get-together.jpg" alt="DSSE Get-Together" />
         </div>
-		
+
     <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/campus-e-presence-meeting.jpg" alt="campus-e-presence-meeting" />
         </div>
@@ -55,14 +55,14 @@ Our work has been published in **major conferences and journals** in the areas o
 
 **We are grateful for funding from** [IIT University of Dhaka](http://www.iit.du.ac.bd/), [ICT Division](https://ictd.gov.bd/), [ Ministry of Posts, Telecommunications and Information Technology](https://ptd.gov.bd/), [UGC](http://www.ugc.gov.bd/) and [BdREN](https://www.bdren.net.bd/).
 
-We **love to collaborate** with the software industries and we establish an industry-academia collaboration. We partnered with many renowned software firms like 
-<a href="https://selise.ch/"  target="_blank"> SELISE rockin' software</a>, <a href="https://brainstation-23.com/"  target="_blank"> Brain Station 23 </a>, <a href="https://research.samsung.com/srbd"  target="_blank"> Samsung R&D Institute Bangladesh (SRBD)</a>, and so on. 
+We **love to collaborate** with the software industries and we have an established industry-academia collaboration framework. We have partnerships with many nationally and internationally renowned software firms like
+<a href="https://selise.ch/"  target="_blank"> SELISE rockin' software</a>, <a href="https://brainstation-23.com/"  target="_blank"> Brain Station 23 </a>, <a href="https://research.samsung.com/srbd"  target="_blank"> Samsung R&D Institute Bangladesh (SRBD)</a>, and so on.
 
 <br>
 <div class="w-100">
   <a href="http://www.iit.du.ac.bd/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_iit_du.png" width="130px" height="60px"></a>
   <a href="https://ictd.gov.bd/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_ict_division.png" width="150px" height="60px"></a>
   <a href="http://www.ugc.gov.bd/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_ugc.jpg" width="130px" height="100px"></a>
-  <a href="https://www.bdren.net.bd/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_bdren.png" width="130px" height="60px"></a> 
-  
+  <a href="https://www.bdren.net.bd/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_bdren.png" width="130px" height="60px"></a>
+
 </div>
