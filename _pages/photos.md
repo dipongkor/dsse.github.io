@@ -1,6 +1,6 @@
 ---
 title: "DSSE->Photos"
-layout: piclay 
+layout: piclay
 excerpt: "DSSE -- Photos"
 permalink: /photos/
 ---
@@ -16,7 +16,9 @@ permalink: /photos/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-<a href="{{ site.url }}{{ site.baseurl }}/images/dsse-group-pic/{{ pic.image }}" class="with-caption image-link" title="{{ pic.title }}"><img  src="{{ site.url }}{{ site.baseurl }}/images/dsse-group-pic/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}/images/dsse-group-pic/{{ pic.image }}" class="with-caption image-link" title="{{ pic.title }}">
+    <img  src="{{ site.url }}{{ site.baseurl }}/images/dsse-group-pic/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt = "{{pic.title}}" />
+</a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
